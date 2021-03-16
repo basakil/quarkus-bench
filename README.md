@@ -1,15 +1,15 @@
-# Getting started with Quarkus
+# quarkus-bench
 
 This is a sample rest servic project used for benchmarking tests.
 
-Under the hood, this demo uses:
+Under the hood, this project uses:
 
 - RESTEasy to expose the REST endpoints
 - REST-assured and JUnit 5 for endpoint testing
 
 ## Requirements
 
-To compile and run this demo you will need:
+To compile and run this project you will need:
 
 - JDK 1.8+
 - GraalVM
